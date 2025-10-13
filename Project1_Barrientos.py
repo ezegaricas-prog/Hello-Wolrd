@@ -1,0 +1,8 @@
+Python 3.13.7 (v3.13.7:bcee1c32211, Aug 14 2025, 19:10:51) [Clang 16.0.0 (clang-1600.0.26.6)] on darwin
+Enter "help" below or click "Help" above for more information.
+>>> print("Hello! This is my first Python program.")
+Hello! This is my first Python program.
+>>> name = input("Enter your name: ")
+Enter your name: Ezequiel Barrientos
+>>> print("Nice to meet you,",name)
+Nice to meet you, Ezequiel Barrientos
